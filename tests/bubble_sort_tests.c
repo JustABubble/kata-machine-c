@@ -14,6 +14,4 @@ TEST(bubble_sort, bubble_sort_works) {
     }
 }
 
-int main(int argc, const char *argv[]) {
-    return rktest_main(argc, argv);
-}
+int main(int argc, const char *argv[]) { return rktest_main(argc, argv); }
